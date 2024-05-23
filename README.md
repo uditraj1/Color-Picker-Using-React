@@ -1,2 +1,3 @@
 # Small-React-Projects
-This repo has small programs made using React
+
+A small app to pick colors using React.
